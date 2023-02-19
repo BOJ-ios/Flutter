@@ -47,7 +47,7 @@ class App extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(
-                  height: 120,
+                  height: 60,
                 ),
                 Text(
                   "Total Balance",
@@ -60,7 +60,7 @@ class App extends StatelessWidget {
                   height: 5,
                 ),
                 const Text(
-                  "\$5 194 482",
+                  "\$5,194,482",
                   style: TextStyle(
                     fontSize: 44,
                     color: Colors.white,
@@ -84,7 +84,7 @@ class App extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(
-                  height: 100,
+                  height: 50,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -136,7 +136,7 @@ class App extends StatelessWidget {
                             Row(
                               children: [
                                 const Text(
-                                  "6 428",
+                                  "6,428",
                                   style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 20,
